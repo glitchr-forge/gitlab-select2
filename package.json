@@ -13,6 +13,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "select2": "^4.1.0"
+    "select2": "^4.0.13"
   }
 }
