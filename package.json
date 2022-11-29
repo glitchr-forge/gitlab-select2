@@ -11,5 +11,8 @@
   "license": "LGPL-3.0-or-later",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "select2": "^4.1.0"
   }
 }
