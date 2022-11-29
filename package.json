@@ -1,6 +1,6 @@
 {
   "name": "@glitchr/select2",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "Select2 extension",
   "main": "src/index.js",
   "repository": {
