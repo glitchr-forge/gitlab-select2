@@ -13,6 +13,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "select2": "^4.0.13"
+    "select2": "^4.0.13",
+    "jquery-ui": "^1.13.2"
   }
 }
