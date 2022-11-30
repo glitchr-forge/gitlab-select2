@@ -42,16 +42,15 @@
     padding: 0 8px;
     width: 100%; }
   .select2-container--bootstrap4 .select2-selection--multiple .select2-selection__choice {
-    color: inherit;
+    color: #343a40;
+    border: 1px solid #bdc6d0;
     border-radius: 0.2rem;
     padding: 0;
     padding-right: 5px;
     cursor: pointer;
     float: left;
     margin-top: 0.45em;
-    margin-right: 5px;
-    min-height:24px;
-  }
+    margin-right: 5px; }
   .select2-container--bootstrap4 .select2-selection--multiple .select2-selection__choice__remove {
     color: #bdc6d0;
     font-weight: bold;
@@ -91,8 +90,6 @@
   background-color: #fff;
   border: 1px solid #ced4da;
   border-radius: 0.25rem;
-  min-height:38px;
-
   -webkit-transition: border-color 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;
   transition: border-color 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;
   transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
