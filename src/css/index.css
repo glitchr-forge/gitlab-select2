@@ -2,18 +2,6 @@
 @import '~select2/dist/css/select2.min.css';
 
 
-.select2-container--bootstrap4 .select2-selection--single
-{
-  height:auto !important;
-  min-height: calc(1.5em + .75rem + 2px)!important
-}
-
-.select2-container .select2-selection--single
-{
-  height:auto !important;
-  min-height:28px;
-}
- 
 .select2-container--bootstrap4 .select2-selection--single {
   height: calc(1.5em + 0.75rem + 2px) !important; }
   .select2-container--bootstrap4 .select2-selection--single .select2-selection__placeholder {
@@ -192,3 +180,16 @@ margin-right: 0.25em;
 }
   .select2-container--bootstrap4 .select2-selection__clear:hover {
     background-color: #afafaf; }
+
+
+.select2-container--bootstrap4 .select2-selection--single
+{
+  height:auto !important;
+  min-height: calc(1.5em + .75rem + 2px)!important
+}
+
+.select2-container .select2-selection--single
+{
+  height:auto !important;
+  min-height:28px;
+}
